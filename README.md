@@ -9,9 +9,9 @@
 | Dataset ID | `981362` |
 | Location | Ann Arbor |
 | Category | Restaurants |
-| Full dataset size | 493 records |
-| Free sample size | 48 records (9.74%) |
-| Last export | 2026-04-09T13:21:06.609988+00:00 |
+| Full dataset size | 484 records |
+| Free sample size | 48 records (9.92%) |
+| Last export | 2026-04-16T13:37:42.184148+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-ann-arbor-michigan-us-sample-981362/releases/download/sample-latest/beamstation_981362_restaurants-us-mi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
